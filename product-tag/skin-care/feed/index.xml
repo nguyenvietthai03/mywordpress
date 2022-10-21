@@ -12,13 +12,13 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/skin-care/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenvietthai03.github.io/mywordpress</link>
 	<description></description>
-	<lastBuildDate>Fri, 14 Oct 2022 13:27:10 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Oct 2022 01:39:55 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>Supreme Moisture Mask</title>
 		<link>https://nguyenvietthai03.github.io/mywordpress/product/supreme-moisture-mask/</link>
@@ -121,7 +121,7 @@
 					<description><![CDATA[Description          Additional information       Reviews (1) Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.]]></description>
 										<content:encoded><![CDATA[<div class="g5shop__single-product-tabs layout-2">
 <div class="g5shop__tabs-container">
-<p><a id="description-tab" class="tab-description nav-link active" role="tab" href="https://glowing.g5plus.net/main/product/enriched-hand-body-wash/#tab-description" data-toggle="tab" aria-controls="tab-description" aria-selected="true">Description          </a><a id="additional_information-tab" class="tab-additional_information nav-link " role="tab" href="https://glowing.g5plus.net/main/product/enriched-hand-body-wash/#tab-additional_information" data-toggle="tab" aria-controls="tab-additional_information" aria-selected="false">Additional information       </a><a id="reviews-tab" class="tab-reviews nav-link " role="tab" href="https://glowing.g5plus.net/main/product/enriched-hand-body-wash/#tab-reviews" data-toggle="tab" aria-controls="tab-reviews" aria-selected="false">Reviews (1)</a></p>
+<p style="text-align: center;"><a id="description-tab" class="tab-description nav-link active" role="tab" href="https://glowing.g5plus.net/main/product/enriched-hand-body-wash/#tab-description" data-toggle="tab" aria-controls="tab-description" aria-selected="true">Description          </a><a id="additional_information-tab" class="tab-additional_information nav-link " role="tab" href="https://glowing.g5plus.net/main/product/enriched-hand-body-wash/#tab-additional_information" data-toggle="tab" aria-controls="tab-additional_information" aria-selected="false">Additional information       </a><a id="reviews-tab" class="tab-reviews nav-link " role="tab" href="https://glowing.g5plus.net/main/product/enriched-hand-body-wash/#tab-reviews" data-toggle="tab" aria-controls="tab-reviews" aria-selected="false">Reviews (1)</a></p>
 </div>
 <div class="tab-content g5shop__panels-container">
 <div id="tab-description" class="tab-pane fade show active" role="tabpanel" aria-labelledby="description-tab">

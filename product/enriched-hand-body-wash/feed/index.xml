@@ -11,11 +11,11 @@
 	<atom:link href="http://localhost/myproject/wordpress/product/enriched-hand-body-wash/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenvietthai03.github.io/mywordpress/product/enriched-hand-body-wash/</link>
 	<description></description>
-	<lastBuildDate>Fri, 14 Oct 2022 11:10:01 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 21 Oct 2022 01:39:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
